@@ -11,7 +11,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateus-dm&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Pt" height="50" width=80" src="https://user-images.githubusercontent.com/62097680/218508147-8dd295ad-a918-45b4-b87f-d64d9d3c7009.png">
+  <img align="center" alt="Pt" height="90" width="90" src="https://user-images.githubusercontent.com/62097680/218508147-8dd295ad-a918-45b4-b87f-d64d9d3c7009.png">
 </div>
  ##
 <div>
