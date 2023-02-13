@@ -3,15 +3,13 @@
 <!--
 **mateus-dm/mateus-dm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
--->
 <div align="center">
   <a href="https://github.com/mateus-dm">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mateus-dm&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateus-dm&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Pt" height="50" width="50" src="https://user-images.githubusercontent.com/62097680/218508147-8dd295ad-a918-45b4-b87f-d64d9d3c7009.png">
+  <img align="center" alt="Pt" height="40" width="40" src="https://user-images.githubusercontent.com/62097680/218509382-6b901f20-9b23-4049-bc34-271a46bcf164.png">
 </div>
  ##
 <div>
