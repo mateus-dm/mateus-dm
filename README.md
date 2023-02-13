@@ -9,7 +9,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateus-dm&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Pt" height="40" width="40" backgroundcolor="none" src="https://user-images.githubusercontent.com/62097680/218509382-6b901f20-9b23-4049-bc34-271a46bcf164.png">
+  <img align="center" alt="Pt" height="40" width="40" backgroundColor="none" src="https://user-images.githubusercontent.com/62097680/218509382-6b901f20-9b23-4049-bc34-271a46bcf164.png">
 </div>
  ##
 <div>
