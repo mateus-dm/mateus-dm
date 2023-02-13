@@ -9,9 +9,9 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateus-dm&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Pt" height="40" width="40" backgroundColor="none" src="https://user-images.githubusercontent.com/62097680/218510250-85eb4634-8de3-4568-9e71-24ccf4475a12.png">
+  <img align="center" alt="Pt" height="40" width="40" margin-bottom="10px" src="https://user-images.githubusercontent.com/62097680/218510250-85eb4634-8de3-4568-9e71-24ccf4475a12.png">
 </div>
- <br>
+<!--  <br> -->
   <div>
   <a href="https://instagram.com/mateusd.m" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:mateussd2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
